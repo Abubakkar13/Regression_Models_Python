@@ -5,7 +5,6 @@
 - Ecommerce Linear Regression  
 - Salary Simple Linear Regression  
 - Startup Multiple Linear Regression      
-- Titanic Logistic Regression
 
 ### Non-Linear Regression  
 - Position Salaries Polynomial Regression  
